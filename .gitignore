@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# YOLO model weights
+*.pt
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Ignore only video outputs
+outputs/videos/*.mp4
